@@ -285,3 +285,8 @@ Citation:
 
 The difference between a battery that fails and one that does not is physics.
 And physics does not negotiate.
+
+
+## Benchmark Results
+
+See demo/benchmark_results.png for the full 6-panel benchmark chart.
